@@ -1,0 +1,21 @@
+# Core
+python>=3.9
+
+# Data processing
+numpy
+pandas
+
+# Database
+pymongo
+dnspython
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Visualization (dùng trong notebook, không bắt buộc khi deploy UI)
+matplotlib
+seaborn
+
+# Web UI
+streamlit
